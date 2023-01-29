@@ -1,12 +1,12 @@
-click {
+.click {
     background-color: #000000;
     color: hsl(0, 0%, 100%);
 }
-unclick {
+.unclick {
     background-color: hwb(60 0% 0%);
 }
-click,
-unclick {
+.click,
+.unclick {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
