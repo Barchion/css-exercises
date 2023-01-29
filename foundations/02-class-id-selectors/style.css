@@ -1,0 +1,18 @@
+.alert-text {
+    background-color: rgb(206, 91, 91);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+.severe-alert{
+    background-color: rgb(206, 91, 91);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+#title {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#header {
+    background-color: rgb(87, 230, 87);
+    font-size: 24px;
+    font-weight: bold;
+}
